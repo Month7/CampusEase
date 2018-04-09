@@ -1,0 +1,12 @@
+@charset "utf-8";
+#root{
+	color: red;
+}
+p{
+	margin:50px;
+}
+.bfc{
+	overflow: auto;
+	position: absolute;
+	display: none;
+}
