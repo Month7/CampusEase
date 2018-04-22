@@ -5,6 +5,7 @@
 ## 应付校赛临时凑数
 
 ### 使用
-```npm install
+```
+   npm install
    npm run dev
 ```
